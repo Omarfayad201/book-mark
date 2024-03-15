@@ -1,0 +1,22 @@
+.column{
+background-color:rgb(238, 238, 238);
+text-align: center;
+
+
+}
+
+.column p{
+padding-top: 15px;
+
+}
+.inp1{
+padding: 0px 300px 0px 5px ;
+border: 1px solid rgb(221, 221, 221);
+
+}
+.inp2{
+
+padding: 0px 300px 0px 5px;
+    border: 1px solid rgb(221, 221, 221);
+
+}
